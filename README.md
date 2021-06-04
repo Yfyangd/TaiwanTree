@@ -49,9 +49,29 @@ This code was tested with python 3.7
 
 ```SPA_Net.py``` is the overall network architecture of SP&A-Net. Please refer section 3.4 of this paper.
 
+## Model Design
+
+<img style="float: left;" src="4.png" width="100%">
+
 ## Experiment Result
 
 <img style="float: left;" src="2.png" width="100%">
 
 ### Training Result
 <img style="float: left;" src="3.png" width="100%">
+
+### Reference
+* [1] Y. Lecun, L. Bottou, Y. Bengio and P. Haffner, "Gradient-based learning applied to document recognition", in Proceedings of the IEEE, vol. 86, no. 11, pp. 2278-2324, Nov. 1998.
+* [2] A. Krizhevsky, I. Sutskever, G. E. Hinton, "ImageNet classification with deep convolutional neural networks", Advances in Neural Information Processing Systems (NIPS), 2012.
+* [3] K. He, X. Zhang, S. Ren and J. Sun, "Deep Residual Learning for Image Recognition", 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 770-778, Jun. 2016.
+* [4] J. Hu, L. Shen and G. Sun, "Squeeze-and-Excitation Networks", 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 7132-7141, Jun. 2018.
+* [5] M. Lin, Q. Chen, S. Yan, "Network In Network", International Conference on Learning Representations (ICLR) 2014.
+* [6] K. Simonyan, A. Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition", International Conference on Learning Representations(ICLR), 2015.
+* [7] A. G. Howard, M. Zhu, B. Chen, et al., "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications", arXiv preprint arXiv:1704.04861, Apr 2017.
+* [8] A. Howard et al., "Searching for MobileNetV3", 2019 IEEE/CVF International Conference on Computer Vision (ICCV), pp. 1314-1324, Nov. 2019.
+* [9] Y. Cao, J. Xu, S. Lin, F. Wei and H. Hu, "GCNet: Non-Local Networks Meet Squeeze-Excitation Networks and Beyond", 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pp. 1971-1980, 2019.
+* [10] Y.F. Yang, M. Sun, "A Novel Deep Learning Architecture for Global Defect Classification: Self-Proliferating Neural Network (SPNet)", 2020 31th Annual SEMI Advanced Semiconductor Manufacturing Conference (ASMC), May 2021.
+* [11] Y. Sun et al., "Circle Loss: A Unified Perspective of Pair Similarity Optimization", 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 6397-6406, Jun. 2020.
+* [12] I. Loshchilov, F. Hutter, “SGDR: Stochastic Gradient Descent with Warm Restarts”, International Conference on Learning Representations (ICLR), May 2017.
+* [13] S. loffe, C. Szegedy, "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift", International Conference on Machine Learning (ICML), 2015.
+* [14] M. Sandler, A. Howard, M. Zhu, A. Zhmoginov and L. Chen, "MobileNetV2: Inverted Residuals and Linear Bottlenecks", 2018 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), pp. 4510-4520, Jun. 2018.
