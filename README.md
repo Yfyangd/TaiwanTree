@@ -1,7 +1,7 @@
 # Looking for the Tallest Tree in Taiwan by Deep Learning
 This project uses deep learning to find the tallest tree in Taiwan. Based on the reasonable growth space of trees (1200 trees per hectare), it is estimated that there should be 2.5 billion trees in Taiwan. Of course, this is just a reference value that cannot be confirmed. How to find a giant tree with a height of more than 70 meters among billions of trees and achieve "Finding the tallest tree in Taiwan" is an interesting ecological issue.
 
-The research team of the Taiwan Forestry Research Institute used a telemetry instrument ─ ─ airborne LiDAR to quickly scan the forest trees to obtain a large amount of image data. Secondly, through crowdSourcing, a large amount of image data was labeled (about 50,000 photos). We hope to use machine learning to build models to find the tallest tree in Taiwan from hundreds of thousands of airborne LiDAR images.
+The research team of the Taiwan Forestry Research Institute used a telemetry instrument ─ ─ airborne LiDAR to quickly scan the forest trees to obtain a large amount of image data. Secondly, through crowdSourcing, a large amount of image data was labeled (around 55,000 photos). We hope to use machine learning to build models to find the tallest tree in Taiwan from hundreds of thousands of airborne LiDAR images.
 
 ##### Picture-1: Taiwania cryptomerioides "Big White" and its airborne LiDAR diagram.
 
