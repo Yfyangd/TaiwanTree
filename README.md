@@ -10,7 +10,7 @@ The research team of the Taiwan Forestry Research Institute used a telemetry ins
 Through outsourcing data, it is inevitable that there will be some wrongly marked data (False Negative/False Positive). We have studied several types of Unsupervised Learning (for details, please refer to: `KMean_DBSCAN_HoughLine_Study.ipynb`) and found that DBSCAN can effectively filter with dangling Images of artificial structures (such as cables). It can help us clean up the data before deep learning (please refer to the implementation results: `DBSCAN.ipynb`).
 
 ## Deep Learning
-Next, we conduct deep learning to distinguish between artificial buildings and natural tree groups. So far, we have tested a total of 4 models (please refer to: `model1.ipynb`, `model2.ipynb`, `model3.ipynb`, `model4.ipynb`). Current accuracy/Recall/Precision/F1-Score reached **98.06%**/**99.84%****96.39%**/**98.08%** respectively.
+Next, we conduct deep learning to distinguish between artificial buildings and natural tree groups. So far, we have tested a total of 4 models (please refer to: `model1.ipynb`, `model2.ipynb`, `model3.ipynb`, `model4.ipynb`). Current accuracy/Recall/Precision/F1-Score reached **98.06%**/**99.84%**/**96.39%**/**98.08%** respectively.
 
 ## Code
 
