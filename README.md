@@ -4,6 +4,7 @@ This project uses deep learning to find the tallest tree in Taiwan. Based on the
 The research team of the Taiwan Forestry Research Institute used a telemetry instrument ─ ─ airborne LiDAR to quickly scan the forest trees to obtain a large amount of image data. Secondly, through crowdSourcing, a large amount of image data was labeled (about 50,000 photos). We hope to use machine learning to build models to find the tallest tree in Taiwan from hundreds of thousands of airborne LiDAR images.
 
 ##### Picture-1: Taiwania cryptomerioides "Big White" and its airborne LiDAR diagram.
+
 <img style="float: left;" src="1.png" width="100%">
 
 ## Re-Label by DBSCAN
